@@ -1,0 +1,6 @@
+./trim #trims files
+./align #uses bwa to align files and produces bam files
+freq.pl #
+do R analysis. 
+put into stupid excell format for Andy/the biologists.  use provisionFoldChange.pl
+

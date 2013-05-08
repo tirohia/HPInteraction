@@ -1,0 +1,43 @@
+
+BASE_DIR="/workspace/hrabyc/transcriptome/v13cluster"
+DATA_BASE="/data/genomic/plant/Actinidia/chinensis/hort16A/Transcriptome/Infected/bacterial/Pseudomonas/syringae/stem_assay"
+
+#for name in Psa1 Psa2 Psa3 Psa5 Psa6 Psa7 Psa8 Psa9 
+for name in V13_Matt
+do 
+	echo ${name}
+	if [ ! -d "$BASE_DIR/base/${name}" ]; then
+		mkdir $BASE_DIR/base/${name}
+	fi
+	cd "$DATA_BASE"
+
+	cp ${name}_1.fastq.gz $BASE_DIR/${name}
+	cp ${name}_2.fastq.gz $BASE_DIR/${name}
+	
+	cd "$BASE_DIR/base/${name}"
+	gunzip -c ${name}_1.fastq.gz >${name}_1.fastq
+	gunzip -c ${name}_2.fastq.gz >${name}_2.fastq
+
+ 
+ 	# The following command will run fast-mcf to trim all TruSeq and other adapters in the named adapter file
+ 	# the -l 95 will discard sequences shorter then 95 (you may want to change this)
+ 	# the -q 10 will trim using a quality score of 10
+	
+	if [ ! -d "$BASE_DIR/trimmed/${name}" ]; then
+	        mkdir $DATA_BASE/trimmed/${name}
+
+        fi
+
+	cd $BASE_DIR/trimmed/${name}
+	fastq-mcf -o ${name}_1_mcf.fq -o ${name}_2_mcf.fq -l 95 -q 10 /data/ComparativeDataSources/Illumina/Adapters/TruSeqAdapters.fasta $DATA_BASE/base/$name/${name}_1.fastq $DATA_BASE/base/$name/${name}_2.fastq 
+
+ 	# The following command will take the output of mcf and trim the first 15 bases from the reads
+ 	# which is required if the reads are RNASeq but do not do this for DNASeq reads instead
+ 	# base trimming on fastqc analysis
+
+ 	/software/x86_64/bin/fq2trimmed_extended.pl -c=trim,removeN,removeMono -5=15 -f1=${name}_1_mcf.fq -f2=${name}_2_mcf.fq -o1=${name}_1.fq -o2=${name}_2.fq
+ 
+	# The following lines will run a further fastqc analysis on the processed reads
+ 	/software/x86_64/FastQC/fastqc  -f fastq -t 2 ${name}_1.fq
+ 	/software/x86_64/FastQC/fastqc  -f fastq -t 2 ${name}_2.fq
+done
