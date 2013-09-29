@@ -1,0 +1,24 @@
+[bwa_aln] 17bp reads: max_diff = 2
+[bwa_aln] 38bp reads: max_diff = 3
+[bwa_aln] 64bp reads: max_diff = 4
+[bwa_aln] 93bp reads: max_diff = 5
+[bwa_aln] 124bp reads: max_diff = 6
+[bwa_aln] 157bp reads: max_diff = 7
+[bwa_aln] 190bp reads: max_diff = 8
+[bwa_aln] 225bp reads: max_diff = 9
+[bwa_seq_open] fail to open file '/workspace/hrabyc/HPInteraction/data/arabidopsis/SRR641245.fastq'. Abort!
+./alignSingleEnd: line 22:  1106 Aborted                 (core dumped) bwa aln $BASE_DIR/index/Arabidopsis_gnomon_mRNA.fa $BASE_DIR/${name}.fastq > $OUT_DIR/${name}_1.sai
+[bns_restore_core] fail to open file '/workspace/hrabyc/HPInteraction/data/arabidopsis/index/Arabidopsis_gnomon_mRNA.fa.nt.ann'. Abort!
+./alignSingleEnd: line 26:  1132 Aborted                 (core dumped) bwa samse $BASE_DIR/index/Arabidopsis_gnomon_mRNA.fa $OUT_DIR/${name}_1.sai $IN_DIR/${name}.fastq > $OUT_DIR/${name}.sam
+[bwa_aln] 17bp reads: max_diff = 2
+[bwa_aln] 38bp reads: max_diff = 3
+[bwa_aln] 64bp reads: max_diff = 4
+[bwa_aln] 93bp reads: max_diff = 5
+[bwa_aln] 124bp reads: max_diff = 6
+[bwa_aln] 157bp reads: max_diff = 7
+[bwa_aln] 190bp reads: max_diff = 8
+[bwa_aln] 225bp reads: max_diff = 9
+[bwa_seq_open] fail to open file '/workspace/hrabyc/HPInteraction/data/arabidopsis/SRR641245.fastq'. Abort!
+./alignSingleEnd: line 22:  1672 Aborted                 (core dumped) bwa aln $BASE_DIR/index/Arabidopsis_gnomon_mRNA.fa $BASE_DIR/${name}.fastq > $OUT_DIR/${name}_1.sai
+[bns_restore_core] fail to open file '/workspace/hrabyc/HPInteraction/data/arabidopsis/index/Arabidopsis_gnomon_mRNA.fa.nt.ann'. Abort!
+./alignSingleEnd: line 26:  1687 Aborted                 (core dumped) bwa samse $BASE_DIR/index/Arabidopsis_gnomon_mRNA.fa $OUT_DIR/${name}_1.sai $IN_DIR/${name}.fastq > $OUT_DIR/${name}.sam

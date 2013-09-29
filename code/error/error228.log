@@ -1,0 +1,308 @@
+[bwa_aln] 17bp reads: max_diff = 2
+[bwa_aln] 38bp reads: max_diff = 3
+[bwa_aln] 64bp reads: max_diff = 4
+[bwa_aln] 93bp reads: max_diff = 5
+[bwa_aln] 124bp reads: max_diff = 6
+[bwa_aln] 157bp reads: max_diff = 7
+[bwa_aln] 190bp reads: max_diff = 8
+[bwa_aln] 225bp reads: max_diff = 9
+[bwa_aln_core] calculate SA coordinate... 47.41 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 262144 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 65.01 sec
+[bwa_aln_core] write to the disk... 0.07 sec
+[bwa_aln_core] 524288 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 62.89 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 786432 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 60.39 sec
+[bwa_aln_core] write to the disk... 0.07 sec
+[bwa_aln_core] 1048576 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 67.13 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 1310720 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 59.13 sec
+[bwa_aln_core] write to the disk... 0.04 sec
+[bwa_aln_core] 1572864 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 56.74 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 1835008 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 53.70 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 2097152 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 52.44 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 2359296 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 45.95 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 2621440 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 46.89 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 2883584 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 49.32 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 3145728 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 61.13 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 3407872 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 55.86 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 3670016 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 57.29 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 3932160 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 44.54 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 4194304 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 44.72 sec
+[bwa_aln_core] write to the disk... 0.04 sec
+[bwa_aln_core] 4456448 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 53.82 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 4718592 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 59.24 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 4980736 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 54.11 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 5242880 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 54.16 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 5505024 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 56.11 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 5767168 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 49.40 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 6029312 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 58.90 sec
+[bwa_aln_core] write to the disk... 0.08 sec
+[bwa_aln_core] 6291456 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 62.98 sec
+[bwa_aln_core] write to the disk... 0.06 sec
+[bwa_aln_core] 6553600 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 53.75 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 6815744 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 23.78 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 7077888 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 26.21 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 7340032 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 24.62 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 7602176 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 24.81 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 7864320 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 22.79 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 8126464 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 23.80 sec
+[bwa_aln_core] write to the disk... 0.04 sec
+[bwa_aln_core] 8388608 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 26.86 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 8650752 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 29.27 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 8912896 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 59.46 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 9175040 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 59.83 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 9437184 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 58.15 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 9699328 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 53.94 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 9961472 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 53.12 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 10223616 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 50.38 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 10485760 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 62.28 sec
+[bwa_aln_core] write to the disk... 0.05 sec
+[bwa_aln_core] 10747904 sequences have been processed.
+[bwa_aln_core] calculate SA coordinate... 9.78 sec
+[bwa_aln_core] write to the disk... 0.01 sec
+[bwa_aln_core] 10790800 sequences have been processed.
+[main] Version: 0.6.2-r126
+[main] CMD: bwa aln /workspace/hrabyc/HPInteraction/data/arabidopsis/index/Arabidopsis_gnomon_mRNA.fa /workspace/hrabyc/HPInteraction/data/arabidopsis/SRR641228.fastq
+[main] Real time: 2407.228 sec; CPU: 2267.191 sec
+[bwa_aln_core] convert to sequence coordinate... 1.76 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.12 sec
+[bwa_aln_core] 262144 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.74 sec
+[bwa_aln_core] refine gapped alignments... 0.59 sec
+[bwa_aln_core] print alignments... 1.10 sec
+[bwa_aln_core] 524288 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.73 sec
+[bwa_aln_core] refine gapped alignments... 0.57 sec
+[bwa_aln_core] print alignments... 1.13 sec
+[bwa_aln_core] 786432 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.78 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.15 sec
+[bwa_aln_core] 1048576 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.80 sec
+[bwa_aln_core] refine gapped alignments... 0.59 sec
+[bwa_aln_core] print alignments... 1.18 sec
+[bwa_aln_core] 1310720 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.79 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.28 sec
+[bwa_aln_core] 1572864 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.85 sec
+[bwa_aln_core] refine gapped alignments... 0.69 sec
+[bwa_aln_core] print alignments... 1.29 sec
+[bwa_aln_core] 1835008 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.83 sec
+[bwa_aln_core] refine gapped alignments... 0.65 sec
+[bwa_aln_core] print alignments... 1.27 sec
+[bwa_aln_core] 2097152 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.23 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.26 sec
+[bwa_aln_core] 2359296 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.19 sec
+[bwa_aln_core] refine gapped alignments... 0.65 sec
+[bwa_aln_core] print alignments... 1.22 sec
+[bwa_aln_core] 2621440 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.12 sec
+[bwa_aln_core] refine gapped alignments... 0.64 sec
+[bwa_aln_core] print alignments... 1.18 sec
+[bwa_aln_core] 2883584 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.22 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.18 sec
+[bwa_aln_core] 3145728 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.23 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.15 sec
+[bwa_aln_core] 3407872 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.60 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 3670016 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.81 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.15 sec
+[bwa_aln_core] 3932160 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.81 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 4194304 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.77 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.17 sec
+[bwa_aln_core] 4456448 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.84 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 4718592 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.79 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.13 sec
+[bwa_aln_core] 4980736 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.83 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 5242880 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.60 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 5505024 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.15 sec
+[bwa_aln_core] 5767168 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.59 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 6029312 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.83 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 6291456 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.86 sec
+[bwa_aln_core] refine gapped alignments... 0.63 sec
+[bwa_aln_core] print alignments... 1.15 sec
+[bwa_aln_core] 6553600 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.83 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.17 sec
+[bwa_aln_core] 6815744 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.72 sec
+[bwa_aln_core] refine gapped alignments... 0.53 sec
+[bwa_aln_core] print alignments... 1.13 sec
+[bwa_aln_core] 7077888 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.73 sec
+[bwa_aln_core] refine gapped alignments... 0.51 sec
+[bwa_aln_core] print alignments... 1.12 sec
+[bwa_aln_core] 7340032 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.74 sec
+[bwa_aln_core] refine gapped alignments... 0.53 sec
+[bwa_aln_core] print alignments... 1.13 sec
+[bwa_aln_core] 7602176 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.76 sec
+[bwa_aln_core] refine gapped alignments... 0.53 sec
+[bwa_aln_core] print alignments... 1.20 sec
+[bwa_aln_core] 7864320 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.40 sec
+[bwa_aln_core] refine gapped alignments... 0.56 sec
+[bwa_aln_core] print alignments... 1.25 sec
+[bwa_aln_core] 8126464 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.76 sec
+[bwa_aln_core] refine gapped alignments... 0.51 sec
+[bwa_aln_core] print alignments... 1.12 sec
+[bwa_aln_core] 8388608 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.81 sec
+[bwa_aln_core] refine gapped alignments... 0.51 sec
+[bwa_aln_core] print alignments... 1.12 sec
+[bwa_aln_core] 8650752 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.70 sec
+[bwa_aln_core] refine gapped alignments... 0.54 sec
+[bwa_aln_core] print alignments... 1.14 sec
+[bwa_aln_core] 8912896 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.19 sec
+[bwa_aln_core] 9175040 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 1.82 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.18 sec
+[bwa_aln_core] 9437184 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.25 sec
+[bwa_aln_core] refine gapped alignments... 0.60 sec
+[bwa_aln_core] print alignments... 1.17 sec
+[bwa_aln_core] 9699328 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.26 sec
+[bwa_aln_core] refine gapped alignments... 0.60 sec
+[bwa_aln_core] print alignments... 1.19 sec
+[bwa_aln_core] 9961472 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.27 sec
+[bwa_aln_core] refine gapped alignments... 0.60 sec
+[bwa_aln_core] print alignments... 1.18 sec
+[bwa_aln_core] 10223616 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.27 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 1.16 sec
+[bwa_aln_core] 10485760 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 2.29 sec
+[bwa_aln_core] refine gapped alignments... 0.62 sec
+[bwa_aln_core] print alignments... 1.20 sec
+[bwa_aln_core] 10747904 sequences have been processed.
+[bwa_aln_core] convert to sequence coordinate... 0.55 sec
+[bwa_aln_core] refine gapped alignments... 0.10 sec
+[bwa_aln_core] print alignments... 0.20 sec
+[bwa_aln_core] 10790800 sequences have been processed.
+[main] Version: 0.6.2-r126
+[main] CMD: bwa samse /workspace/hrabyc/HPInteraction/data/arabidopsis/index/Arabidopsis_gnomon_mRNA.fa /workspace/hrabyc/HPInteraction/data/arabidopsis/SRR641228/SRR641228_1.sai /workspace/hrabyc/HPInteraction/data/arabidopsis//SRR641228.fastq
+[main] Real time: 238.406 sec; CPU: 187.434 sec
